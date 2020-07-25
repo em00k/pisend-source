@@ -15,3 +15,5 @@ Also included in checkpi.asm which is an attempt to clean up, and checkpi-tostri
 The checkpi ones are just examples and hopefully will help you work out how to talk with NextPi to some degree.
 
 This source if free to be used in anyway but any diritives must also be open source. 
+
+The GNU Affero General Public License is a modified version of the ordinary GNU GPL version 3. It has one added requirement: if you run a modified program on a server and let other users communicate with it there, your server must also allow them to download the source code corresponding to the modified version running there.
